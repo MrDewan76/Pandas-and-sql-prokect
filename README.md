@@ -1,1 +1,2 @@
-# Pandas-and-sql-prokect
+# Pandas-and-sql-proj
+ect
